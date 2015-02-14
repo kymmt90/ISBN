@@ -4,8 +4,6 @@ International Standard Book Number Classes in Java.
 
 # Requirements
 
-- Java (>= 1.8)
-
 For unit tests, these libraries are also needed.
 
 - JUnit
